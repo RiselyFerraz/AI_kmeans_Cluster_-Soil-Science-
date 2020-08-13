@@ -1,1 +1,1 @@
-Kmeans analysis for groping fertlizers 
+Kmeans analysis for a group of fertilizers 
