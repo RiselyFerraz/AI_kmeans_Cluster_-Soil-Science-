@@ -1,1 +1,1 @@
-Kmeans anaysis for groping fertlizers 
+Kmeans analysis for groping fertlizers 
